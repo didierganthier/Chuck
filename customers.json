@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Didier Ganthier",
+        "age": 20,
+        "company": "Les Ateliers Ganthier/Google"
+    },
+    {
+        "id": 2,
+        "name": "Rebecca Drouillard",
+        "age": 18,
+        "company": "Dansalou"
+    },
+    {
+        "id": 3,
+        "name": "Olivier Ganthier",
+        "age": 26,
+        "company": "Les Ateliers Ganthier"
+    },
+    {
+        "id": 4,
+        "name": "Jean Denis Ganthier",
+        "age": 59,
+        "company": "Les Ateliers Ganthier"
+    },
+    {
+        "id": 5,
+        "name": "Michael Montina",
+        "age": 54,
+        "company": "Les Ateliers Ganthier/Mamba Mica"
+    },
+    {
+        "id": 6,
+        "name": "Christie Julie",
+        "age": 21,
+        "company": "FSU"
+    }
+]
